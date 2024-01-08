@@ -20,7 +20,7 @@ This Streamlit application, named "Text to Image Generation," enables you to gen
   OPENAI_API_KEY=your_openai_api_key
 
 4. Run the Streamlit app:
-   streamlit run app.py
+   streamlit run app6.py
 
 ## How to Use
 1. Choose between "DALL-E" and "Huggingface Diffusers" in the sidebar.
